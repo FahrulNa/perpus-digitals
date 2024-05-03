@@ -1,5 +1,7 @@
 <template>
   <div class="content">
+    <nuxt-link to="../" class="ms-3">
+          <button type="button" class="btn btn-outline-dark btn-lg">ISI DATA</button></nuxt-link>
     <div class="container-fluid d-flex justify-content-center">
       <div class="row">
         <div class="row-lg py-5">
